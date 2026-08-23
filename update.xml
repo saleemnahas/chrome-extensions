@@ -1,6 +1,1 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <app appid='olffnkalcbbpcnokdfifmjagcknkjkle'>
-    <updatecheck codebase='https://saleemnahas.github.io/chrome-extensions/gmailreadingpane.crx' version='1.0' />
-  </app>
-</gupdate>
+<?xml version="1.0" encoding="UTF-8"?><gupdate xmlns="http://www.google.com/update2/response" protocol="2.0"><app appid="olffnkalcbbpcnokdfifmjagcknkjkle"><updatecheck codebase="https://saleemnahas.github.io/chrome-extensions/gmailreadingpane.crx" version="1.0" /></app></gupdate>
